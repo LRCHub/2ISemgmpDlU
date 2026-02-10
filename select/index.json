@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Where We From feat. T-Pablow",
+  "base_artist": "ANARCHY",
+  "createdAt": "2026-02-10T05:27:29.206869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Where We From feat. T-Pablow",
+      "artist": "ANARCHY",
+      "has_synced": false,
+      "path": "select/pl_01_Where_We_From_feat._T-Pablow_ANARCHY.txt"
+    }
+  ]
+}
